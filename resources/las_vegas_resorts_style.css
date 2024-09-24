@@ -1,0 +1,51 @@
+/*
+	Background: #F2EBFF
+	Accent 1: #840051
+	Accent 2: #0D5098
+*/
+
+body {
+	background-color:#F2EBFF;
+	padding: 10px 50px 50px 50px;
+}
+
+
+a {
+	color:#0D5098;
+	font-weight: bold;
+}
+
+a:hover {
+	color:#840051;
+}
+
+h1 {
+	text-align: center;
+	color: #0D5098;
+}
+
+h2 {
+	color:#840051;
+}
+
+li, table {
+	font-size: 1.1em;
+}
+
+th, td {
+	border: #840051 solid 3px;
+	padding: 8px;
+}
+
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p.img2 {
+	background color: #0D5098;
+	width: 900;
+	padding: 3px;
+	border: #0D5098 solid 6px;
+}
